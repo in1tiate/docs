@@ -1,5 +1,5 @@
 # History
-Attorney Online 1.0, developed by FanatSors, was first released publicly on January 4th, 2013[1] but was announced at least as far back as October 18th, 2011[2]. Version 1.2 and 1.3 were released soon after, on January 6th and 7th respectively.
+Attorney Online 1.0, developed by FanatSors, was first released publicly on January 4th, 2013[[1](https://archive.is/OOYRk)] but was announced at least as far back as October 18th, 2011[[2](https://archive.is/v24EQ)]. Version 1.2 and 1.3 were released soon after, on January 6th and 7th respectively.
 
 Attorney Online 1 was bundled with "Attorney Online Server," the closed-source server software also developed by FanatSors.
 
@@ -134,8 +134,3 @@ Some bugfixed. Later bigger stuff. Maybe
 - Unlisted error spam fix
 - Call Mod fixed
 - Placeholder for missing evidence, chars and demothings.
-
-## Footnotes
-
-[1] https://archive.is/OOYRk
-[2] https://archive.is/v24EQ
