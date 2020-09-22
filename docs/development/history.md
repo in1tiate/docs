@@ -1,7 +1,9 @@
 # History
-Attorney Online 1.0, developed by FanatSors, was first released publicly on January 4th, 2013[[1](https://archive.is/OOYRk)] but was announced at least as far back as October 18th, 2011[[2](https://archive.is/v24EQ)]. Version 1.2 and 1.3 were released soon after, on January 6th and 7th respectively.
+Attorney Online 1.0, developed by FanatSors, was first released publicly on January 4th, 2013[[1](https://archive.is/OOYRk)] but was announced at least as far back as October 18th, 2011[[2](https://archive.is/v24EQ)]. Versions 1.2 and 1.3 were released soon after, on January 6th and 7th respectively.
 
-Attorney Online 1 was bundled with "Attorney Online Server," the closed-source server software also developed by FanatSors.
+Attorney Online 1 was bundled with "Attorney Online Server," the closed-source server software also developed by FanatSors. Until the development of [serverD](https://github.com/stonedDiscord/serverD), this is believed to have been the only AO1 server software in existence. serverD was released on January 18th, 2015[[3](https://github.com/stonedDiscord/serverD/releases/tag/v2.90.388)].
+
+After Attorney Online 1.7.41 it's believed that FanatSors abandoned the project. Due to its closed source nature, the program remained in a mostly dormant state until September 10th, 2016 when development was resumed by the [AO 1.8 Project](https://sites.google.com/site/attorneyonlinedev/).  Since the source code was not publicly available, the AO 1.8 Project's releases were __assembly hacks__ - altered versions of the release binary created with debugging tools.
 
 
 
@@ -126,7 +128,7 @@ I wonder what it does…
 
 Some bugfixed. Later bigger stuff. Maybe
 
-### Release 1.7.41
+### Release 1.7.41 (February 7, 2014)
 
 - Wintness Testimony/CE fixed
 - limit up to 2000 songs
